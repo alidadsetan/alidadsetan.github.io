@@ -7,7 +7,6 @@ nav: true
 nav_order: 4
 ---
 
-## GitHub user
 
 {% if site.data.repositories.github_users %}
 
@@ -35,7 +34,7 @@ nav_order: 4
 {% endif %}
 {% endif %}
 
-## GitHub Repositories
+
 
 {% if site.data.repositories.github_repos %}
 
